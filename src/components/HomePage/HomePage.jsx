@@ -22,7 +22,7 @@ function HomePage() {
             </div>
 
             <article className='Contacts' id="Contacts">
-                <a className='Contact-phone-number'>Номер телефона: </a> <br />
+                <a className='Contact-phone-number'>Номер телефона:</a> <br />
                 <a className='Contact-email-address'>Электронная почта: </a>
             </article>
 
