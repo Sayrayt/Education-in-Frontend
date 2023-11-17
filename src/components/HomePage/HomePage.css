@@ -1,0 +1,62 @@
+.Routes {
+    width: auto;
+    display: flex;
+    margin-bottom: 20px;
+    background-color: rgb(50, 50, 50);
+}
+
+.Authorization {
+    margin: 10px;
+}
+
+.Authorization:hover {
+    background-color: rgb(36, 36, 36);
+}
+
+.Authorization-ico {
+    width: 30px;
+    height: 30px;
+    filter: invert(1);
+    margin-right: 10px;
+}
+
+.Authorization-route {
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+}
+
+.Contact-details {
+    margin: 10px;
+}
+
+.Contact-details:hover{
+    background-color: rgb(36, 36, 36);;
+}
+
+.Contact-details-route {
+    color: white;
+    margin: 10px;
+}
+
+.Contact-details-ico {
+    width: 30px;
+    height: 30px;
+    filter: invert(1);
+    margin-right: 10px;
+}
+
+.Contacts{
+    position: absolute;
+    padding: 10px;
+    bottom: 0;
+    left: 0;
+}
+
+.Contact-phone-number{
+    padding: 10px;
+}
+
+.Contact-email-address{
+    padding: 10px;
+}

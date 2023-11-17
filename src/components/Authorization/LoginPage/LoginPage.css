@@ -1,0 +1,48 @@
+/* Стили для LoginPage */
+.Login-page {
+    max-width: 400px; /* Пример максимальной ширины */
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    margin: 0 auto; /* Горизонтальное центрирование элемента */
+    margin-top: 100px; /* Вертикальное центрирование, можно настроить в зависимости от вашего дизайна */
+  }
+  
+  /* Стили для формы и ее элементов */
+  .Login-page form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .Login-page a {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .Login-page input[type="text"],
+  .Login-page input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .Login-page button[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .Login-page button[type="submit"]:hover {
+    background-color: #0056b3;
+  }
+  
