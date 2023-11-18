@@ -30,8 +30,9 @@
     margin: 10px;
 }
 
-.Contact-details:hover{
-    background-color: rgb(36, 36, 36);;
+.Contact-details:hover {
+    background-color: rgb(36, 36, 36);
+    ;
 }
 
 .Contact-details-route {
@@ -46,17 +47,21 @@
     margin-right: 10px;
 }
 
-.Contacts{
+.Contacts {
     position: absolute;
     padding: 10px;
     bottom: 0;
     left: 0;
 }
 
-.Contact-phone-number{
+.Contact-phone-number {
     padding: 10px;
 }
 
-.Contact-email-address{
+.Contact-email-address {
     padding: 10px;
+}
+
+.Services {
+    margin: 10px;
 }
